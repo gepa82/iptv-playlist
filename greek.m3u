@@ -1,37 +1,34 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_GR.xml"
 
-#EXTINF:-1 tvg-name="ERT News" group-title="Griechenland | Öffentlich",ERT News
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/ERT_News_logo.svg" group-title="Griechenland | Öffentlich",ERT News
 https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/ERTNews-audio_104621_und=104400-video=5000000.m3u8
 
-#EXTINF:-1 tvg-name="ERT 1 HD" group-title="Griechenland | Öffentlich",ERT 1 HD
-https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ERT1_logo_2020.svg" group-title="Griechenland | Öffentlich",ERT 1
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341554/master_mpegts.m3u8
 
-#EXTINF:-1 tvg-name="ERT 2 HD" group-title="Griechenland | Öffentlich",ERT 2 HD
+#EXTINF:-1 tvg-id="ERT2.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/ERT2_logo_2020.svg" group-title="Griechenland | Öffentlich",ERT 2
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
 
-#EXTINF:-1 tvg-name="ERT 3 HD" group-title="Griechenland | Öffentlich",ERT 3 HD
-https://ertflix-greece.siliconweb.com/cmaf/618618_2341560/index.mpd
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/ERT3_logo_2020.svg" group-title="Griechenland | Öffentlich",ERT 3
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341558/master_mpegts.m3u8
 
-#EXTINF:-1 tvg-name="ERT World" group-title="Griechenland | International",ERT World
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ERT_World_logo.svg" group-title="Griechenland | International",ERT World
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 
-#EXTINF:-1 tvg-name="ERT Sports 1" group-title="Griechenland | Sport",ERT Sports 1
-https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd
+#EXTINF:-1 tvg-id="Vouli.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Vouli_TV_logo.svg" group-title="Griechenland | Politik",Vouli TV
+https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/index.m3u8
 
-#EXTINF:-1 tvg-name="Vouli TV" group-title="Griechenland | Politik",Vouli TV
-https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/index.mpd
-
-#EXTINF:-1 tvg-name="RIK Sat" group-title="Zypern",RIK Sat
+#EXTINF:-1 tvg-id="RIKSAT.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/RIK_SAT_logo.svg" group-title="Zypern",RIK Sat
 https://ertflix.ascdn.broadpeak.io/ertlive/rik/default/index.m3u8
 
-#EXTINF:-1 tvg-name="ANT1" group-title="Griechenland | Privat",ANT1
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/ANT1_logo_2021.svg" group-title="Griechenland | Privat",ANT1
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MEGA" group-title="Griechenland | Privat",MEGA
-https://streamcdnh4-0df53bbc22ae482295dbcf7370989099.msvdn.net/vod/JCAyrKr2UqYk/original.mp4
+#EXTINF:-1 tvg-id="MEGA.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mega_Channel_2020.svg" group-title="Griechenland | Privat",MEGA
+https://megastreaming.akamaized.net/live/mega/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ALPHA TV" group-title="Griechenland | Privat",ALPHA TV
+#EXTINF:-1 tvg-id="ALPHA.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Alpha_TV_logo_2019.svg" group-title="Griechenland | Privat",ALPHA TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/chunks.m3u8
 
-#EXTINF:-1 tvg-name="SKAI TV" group-title="Griechenland | Privat",SKAI TV
+#EXTINF:-1 tvg-id="SKAI.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Skai_logo_2020.svg" group-title="Griechenland | Privat",SKAI TV
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8

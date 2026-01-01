@@ -32,3 +32,12 @@ https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source
 
 #EXTINF:-1 tvg-id="SKAI.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Skai_logo_2020.svg" group-title="Griechenland | Privat",SKAI TV
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/3f/%CE%A4%CF%8C%CF%84%CE%B5_%CE%BA%CE%B1%CE%B9_%CE%A4%CF%8E%CF%81%CE%B1.jpg" group-title="VOD | Serien | SKAI | Τότε & Τώρα | Staffel 1",Τότε & Τώρα S01E01
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/2_Do-Not-Delete_Shows/Tote_&_Twra/S0000150001_TOTE_KAI_TWRA_S01E001_NEW.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/3f/%CE%A4%CF%8C%CF%84%CE%B5_%CE%BA%CE%B1%CE%B9_%CE%A4%CF%8E%CF%81%CE%B1.jpg" group-title="VOD | Serien | SKAI | Τότε & Τώρα | Staffel 1",Τότε & Τώρα S01E02
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/2_Do-Not-Delete_Shows/Tote_&_Twra/S0000150002_TOTE_KAI_TWRA_S01E002_NEW.mp4/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/3f/%CE%A4%CF%8C%CF%84%CE%B5_%CE%BA%CE%B1%CE%B9_%CE%A4%CF%8E%CF%81%CE%B1.jpg" group-title="VOD | Serien | SKAI | Τότε & Τώρα | Staffel 1",Τότε & Τώρα S01E03
+https://videostream.skai.gr/skaivod/_definst_/mp4:skai/2_Do-Not-Delete_Shows/Tote_&_Twra/S0000150003_TOTE_KAI_TWRA_S01E003_NEW.mp4/chunklist.m3u8

@@ -41,3 +41,10 @@ https://videostream.skai.gr/skaivod/_definst_/mp4:skai/2_Do-Not-Delete_Shows/Tot
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/el/3/3f/%CE%A4%CF%8C%CF%84%CE%B5_%CE%BA%CE%B1%CE%B9_%CE%A4%CF%8E%CF%81%CE%B1.jpg" group-title="VOD | Serien | SKAI | Τότε & Τώρα | Staffel 1",Τότε & Τώρα S01E03
 https://videostream.skai.gr/skaivod/_definst_/mp4:skai/2_Do-Not-Delete_Shows/Tote_&_Twra/S0000150003_TOTE_KAI_TWRA_S01E003_NEW.mp4/chunklist.m3u8
+
+
+#EXTINF:-1,SKAI TV local
+http://192.168.88.230:8888/skai/index.m3u8
+
+#EXTINF:-1,ALPHA TV local
+http://192.168.88.230:8888/alpha/index.m3u8

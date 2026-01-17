@@ -55,4 +55,59 @@ http://192.168.1.136:5004/auto/v1
 http://192.168.1.136:5004/auto/v2
 #EXTINF:-1 channel-id="3" channel-number="3" tvg-name="SRF info HD",3 SRF info HD
 http://192.168.1.136:5004/auto/v3
+#EXTINF:-1 channel-id="5" channel-number="5" tvg-name="Tele 1 HD",5 Tele 1 HD
+http://192.168.1.136:5004/auto/v5
+#EXTINF:-1 channel-id="6" channel-number="6" tvg-name="TeleZÃ¼ri HD",6 TeleZÃ¼ri HD
+http://192.168.1.136:5004/auto/v6
+#EXTINF:-1 channel-id="7" channel-number="7" tvg-name="Tele M1 HD",7 Tele M1 HD
+http://192.168.1.136:5004/auto/v7
+#EXTINF:-1 channel-id="8" channel-number="8" tvg-name="WWZ Info HD",8 WWZ Info HD
+http://192.168.1.136:5004/auto/v8
+#EXTINF:-1 channel-id="9" channel-number="9" tvg-name="3+ HD",9 3+ HD
+http://192.168.1.136:5004/auto/v9
+#EXTINF:-1 channel-id="10" channel-number="10" tvg-name="4+ HD",10 4+ HD
+http://192.168.1.136:5004/auto/v10
+#EXTINF:-1 channel-id="11" channel-number="11" tvg-name="5+ HD",11 5+ HD
+http://192.168.1.136:5004/auto/v11
+#EXTINF:-1 channel-id="12" channel-number="12" tvg-name="6+ HD",12 6+ HD
+http://192.168.1.136:5004/auto/v12
+#EXTINF:-1 channel-id="13" channel-number="13" tvg-name="7+/Nickelodeon",13 7+/Nickelodeon
+http://192.168.1.136:5004/auto/v13
+#EXTINF:-1 channel-id="14" channel-number="14" tvg-name="TV24 HD",14 TV24 HD
+http://192.168.1.136:5004/auto/v14
+#EXTINF:-1 channel-id="15" channel-number="15" tvg-name="Puls 8 HD",15 Puls 8 HD
+http://192.168.1.136:5004/auto/v15
+#EXTINF:-1 channel-id="16" channel-number="16" tvg-name="Star TV HD",16 Star TV HD
+http://192.168.1.136:5004/auto/v16
+#EXTINF:-1 channel-id="17" channel-number="17" tvg-name="S1 HD",17 S1 HD
+http://192.168.1.136:5004/auto/v17
+#EXTINF:-1 channel-id="18" channel-number="18" tvg-name="SWISS1 HD",18 SWISS1 HD
+http://192.168.1.136:5004/auto/v18
+#EXTINF:-1 channel-id="19" channel-number="19" tvg-name="TV25 HD",19 TV25 HD
+http://192.168.1.136:5004/auto/v19
+#EXTINF:-1 channel-id="21" channel-number="21" tvg-name="Das Erste HD",21 Das Erste HD
+http://192.168.1.136:5004/auto/v21
+#EXTINF:-1 channel-id="22" channel-number="22" tvg-name="ZDF HD",22 ZDF HD
+http://192.168.1.136:5004/auto/v22
+#EXTINF:-1 channel-id="23" channel-number="23" tvg-name="ORF 1 HD",23 ORF 1 HD
+http://192.168.1.136:5004/auto/v23
+#EXTINF:-1 channel-id="24" channel-number="24" tvg-name="ORF 2 HD",24 ORF 2 HD
+http://192.168.1.136:5004/auto/v24
+#EXTINF:-1 channel-id="25" channel-number="25" tvg-name="RTL",25 RTL
+http://192.168.1.136:5004/auto/v25
+#EXTINF:-1 channel-id="26" channel-number="26" tvg-name="SAT.1",26 SAT.1
+http://192.168.1.136:5004/auto/v26
+#EXTINF:-1 channel-id="27" channel-number="27" tvg-name="ProSieben",27 ProSieben
+http://192.168.1.136:5004/auto/v27
+#EXTINF:-1 channel-id="28" channel-number="28" tvg-name="VOX",28 VOX
+http://192.168.1.136:5004/auto/v28
+#EXTINF:-1 channel-id="29" channel-number="29" tvg-name="RTLZWEI",29 RTLZWEI
+http://192.168.1.136:5004/auto/v29
+#EXTINF:-1 channel-id="30" channel-number="30" tvg-name="kabel eins",30 kabel eins
+http://192.168.1.136:5004/auto/v30
+#EXTINF:-1 channel-id="31" channel-number="31" tvg-name="SWR BW HD",31 SWR BW HD
+http://192.168.1.136:5004/auto/v31
+#EXTINF:-1 channel-id="32" channel-number="32" tvg-name="BR Fernsehen S",32 BR Fernsehen S
+http://192.168.1.136:5004/auto/v32
+#EXTINF:-1 channel-id="33" channel-number="33" tvg-name="WDR KÃ¶ln HD",33 WDR KÃ¶ln HD
 

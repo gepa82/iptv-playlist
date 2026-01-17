@@ -48,3 +48,11 @@ http://192.168.88.230:8888/skai/index.m3u8
 
 #EXTINF:-1,ALPHA TV local
 http://192.168.88.230:8888/alpha/index.m3u8
+
+#EXTINF:-1 channel-id="1" channel-number="1" tvg-name="SRF 1 HD",1 SRF 1 HD
+http://192.168.1.136:5004/auto/v1
+#EXTINF:-1 channel-id="2" channel-number="2" tvg-name="SRF zwei HD",2 SRF zwei HD
+http://192.168.1.136:5004/auto/v2
+#EXTINF:-1 channel-id="3" channel-number="3" tvg-name="SRF info HD",3 SRF info HD
+http://192.168.1.136:5004/auto/v3
+

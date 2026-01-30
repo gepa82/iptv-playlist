@@ -1,513 +1,93 @@
 #EXTM3U
-#EXTINF:-1 channel-id="1" channel-number="1" tvg-name="SRF 1 HD" group-title="Favorites",1 SRF 1 HD
+
+##### FAVORITEN #####
+#EXTINF:-1 tvg-id="SRF1.ch" group-title="Favoriten",SRF 1 HD
 http://192.168.1.136:5004/auto/v1
-#EXTINF:-1 channel-id="2" channel-number="2" tvg-name="SRF zwei HD" group-title="Favorites",2 SRF zwei HD
+
+#EXTINF:-1 tvg-id="SRFzwei.ch" group-title="Favoriten",SRF zwei HD
 http://192.168.1.136:5004/auto/v2
-#EXTINF:-1 channel-id="3" channel-number="3" tvg-name="SRF info HD" group-title="Favorites",3 SRF info HD
+
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Favoriten",SRF info HD
 http://192.168.1.136:5004/auto/v3
-#EXTINF:-1 channel-id="5" channel-number="5" tvg-name="Tele 1 HD",5 Tele 1 HD
+
+
+##### SCHWEIZ #####
+#EXTINF:-1 tvg-id="Tele1.ch" group-title="Schweiz",Tele 1 HD
 http://192.168.1.136:5004/auto/v5
-#EXTINF:-1 channel-id="6" channel-number="6" tvg-name="TeleZÃ¼ri HD",6 TeleZÃ¼ri HD
+
+#EXTINF:-1 tvg-id="TeleZueri.ch" group-title="Schweiz",TeleZüri HD
 http://192.168.1.136:5004/auto/v6
-#EXTINF:-1 channel-id="7" channel-number="7" tvg-name="Tele M1 HD",7 Tele M1 HD
+
+#EXTINF:-1 tvg-id="TeleM1.ch" group-title="Schweiz",Tele M1 HD
 http://192.168.1.136:5004/auto/v7
-#EXTINF:-1 channel-id="8" channel-number="8" tvg-name="WWZ Info HD",8 WWZ Info HD
+
+#EXTINF:-1 tvg-id="WWZinfo.ch" group-title="Schweiz",WWZ Info HD
 http://192.168.1.136:5004/auto/v8
-#EXTINF:-1 channel-id="9" channel-number="9" tvg-name="3+ HD",9 3+ HD
+
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Schweiz",3+ HD
 http://192.168.1.136:5004/auto/v9
-#EXTINF:-1 channel-id="10" channel-number="10" tvg-name="4+ HD",10 4+ HD
+
+#EXTINF:-1 tvg-id="4plus.ch" group-title="Schweiz",4+ HD
 http://192.168.1.136:5004/auto/v10
-#EXTINF:-1 channel-id="11" channel-number="11" tvg-name="5+ HD",11 5+ HD
+
+#EXTINF:-1 tvg-id="5plus.ch" group-title="Schweiz",5+ HD
 http://192.168.1.136:5004/auto/v11
-#EXTINF:-1 channel-id="12" channel-number="12" tvg-name="6+ HD",12 6+ HD
+
+#EXTINF:-1 tvg-id="6plus.ch" group-title="Schweiz",6+ HD
 http://192.168.1.136:5004/auto/v12
-#EXTINF:-1 channel-id="13" channel-number="13" tvg-name="7+/Nickelodeon",13 7+/Nickelodeon
+
+#EXTINF:-1 tvg-id="7plus.ch" group-title="Schweiz",7+ / Nickelodeon
 http://192.168.1.136:5004/auto/v13
-#EXTINF:-1 channel-id="14" channel-number="14" tvg-name="TV24 HD",14 TV24 HD
+
+#EXTINF:-1 tvg-id="TV24.ch" group-title="Schweiz",TV24 HD
 http://192.168.1.136:5004/auto/v14
-#EXTINF:-1 channel-id="15" channel-number="15" tvg-name="Puls 8 HD",15 Puls 8 HD
+
+#EXTINF:-1 tvg-id="Puls8.ch" group-title="Schweiz",Puls 8 HD
 http://192.168.1.136:5004/auto/v15
-#EXTINF:-1 channel-id="16" channel-number="16" tvg-name="Star TV HD",16 Star TV HD
+
+#EXTINF:-1 tvg-id="StarTV.ch" group-title="Schweiz",Star TV HD
 http://192.168.1.136:5004/auto/v16
-#EXTINF:-1 channel-id="17" channel-number="17" tvg-name="S1 HD",17 S1 HD
+
+#EXTINF:-1 tvg-id="S1.ch" group-title="Schweiz",S1 HD
 http://192.168.1.136:5004/auto/v17
-#EXTINF:-1 channel-id="18" channel-number="18" tvg-name="SWISS1 HD",18 SWISS1 HD
+
+#EXTINF:-1 tvg-id="Swiss1.ch" group-title="Schweiz",SWISS1 HD
 http://192.168.1.136:5004/auto/v18
-#EXTINF:-1 channel-id="19" channel-number="19" tvg-name="TV25 HD",19 TV25 HD
+
+#EXTINF:-1 tvg-id="TV25.ch" group-title="Schweiz",TV25 HD
 http://192.168.1.136:5004/auto/v19
-#EXTINF:-1 channel-id="21" channel-number="21" tvg-name="Das Erste HD",21 Das Erste HD
+
+
+##### DE / AT #####
+#EXTINF:-1 tvg-id="DasErste.de" group-title="DE / AT",Das Erste HD
 http://192.168.1.136:5004/auto/v21
-#EXTINF:-1 channel-id="22" channel-number="22" tvg-name="ZDF HD",22 ZDF HD
+
+#EXTINF:-1 tvg-id="ZDF.de" group-title="DE / AT",ZDF HD
 http://192.168.1.136:5004/auto/v22
-#EXTINF:-1 channel-id="23" channel-number="23" tvg-name="ORF 1 HD",23 ORF 1 HD
+
+#EXTINF:-1 tvg-id="ORF1.at" group-title="DE / AT",ORF 1 HD
 http://192.168.1.136:5004/auto/v23
-#EXTINF:-1 channel-id="24" channel-number="24" tvg-name="ORF 2 HD",24 ORF 2 HD
+
+#EXTINF:-1 tvg-id="ORF2.at" group-title="DE / AT",ORF 2 HD
 http://192.168.1.136:5004/auto/v24
-#EXTINF:-1 channel-id="25" channel-number="25" tvg-name="RTL",25 RTL
+
+#EXTINF:-1 tvg-id="RTL.de" group-title="DE / AT",RTL
 http://192.168.1.136:5004/auto/v25
-#EXTINF:-1 channel-id="26" channel-number="26" tvg-name="SAT.1",26 SAT.1
+
+#EXTINF:-1 tvg-id="SAT1.de" group-title="DE / AT",SAT.1
 http://192.168.1.136:5004/auto/v26
-#EXTINF:-1 channel-id="27" channel-number="27" tvg-name="ProSieben",27 ProSieben
+
+#EXTINF:-1 tvg-id="ProSieben.de" group-title="DE / AT",ProSieben
 http://192.168.1.136:5004/auto/v27
-#EXTINF:-1 channel-id="28" channel-number="28" tvg-name="VOX",28 VOX
+
+#EXTINF:-1 tvg-id="VOX.de" group-title="DE / AT",VOX
 http://192.168.1.136:5004/auto/v28
-#EXTINF:-1 channel-id="29" channel-number="29" tvg-name="RTLZWEI",29 RTLZWEI
+
+#EXTINF:-1 tvg-id="RTL2.de" group-title="DE / AT",RTLZWEI
 http://192.168.1.136:5004/auto/v29
-#EXTINF:-1 channel-id="30" channel-number="30" tvg-name="kabel eins",30 kabel eins
+
+#EXTINF:-1 tvg-id="KabelEins.de" group-title="DE / AT",kabel eins
 http://192.168.1.136:5004/auto/v30
-#EXTINF:-1 channel-id="31" channel-number="31" tvg-name="SWR BW HD",31 SWR BW HD
+
+#EXTINF:-1 tvg-id="SWRBW.de" group-title="DE / AT",SWR BW HD
 http://192.168.1.136:5004/auto/v31
-#EXTINF:-1 channel-id="32" channel-number="32" tvg-name="BR Fernsehen S",32 BR Fernsehen S
-http://192.168.1.136:5004/auto/v32
-#EXTINF:-1 channel-id="33" channel-number="33" tvg-name="WDR KÃ¶ln HD",33 WDR KÃ¶ln HD
-http://192.168.1.136:5004/auto/v33
-#EXTINF:-1 channel-id="34" channel-number="34" tvg-name="hr-fernsehen HD",34 hr-fernsehen HD
-http://192.168.1.136:5004/auto/v34
-#EXTINF:-1 channel-id="35" channel-number="35" tvg-name="MDR S-Anhalt HD",35 MDR S-Anhalt HD
-http://192.168.1.136:5004/auto/v35
-#EXTINF:-1 channel-id="36" channel-number="36" tvg-name="rbb Berlin HD",36 rbb Berlin HD
-http://192.168.1.136:5004/auto/v36
-#EXTINF:-1 channel-id="37" channel-number="37" tvg-name="NDR FS NDS HD",37 NDR FS NDS HD
-http://192.168.1.136:5004/auto/v37
-#EXTINF:-1 channel-id="38" channel-number="38" tvg-name="3sat HD",38 3sat HD
-http://192.168.1.136:5004/auto/v38
-#EXTINF:-1 channel-id="39" channel-number="39" tvg-name="arte HD",39 arte HD
-http://192.168.1.136:5004/auto/v39
-#EXTINF:-1 channel-id="43" channel-number="43" tvg-name="DMAX HD",43 DMAX HD
-http://192.168.1.136:5004/auto/v43
-#EXTINF:-1 channel-id="44" channel-number="44" tvg-name="NITRO",44 NITRO
-http://192.168.1.136:5004/auto/v44
-#EXTINF:-1 channel-id="45" channel-number="45" tvg-name="ProSieben MAXX",45 ProSieben MAXX
-http://192.168.1.136:5004/auto/v45
-#EXTINF:-1 channel-id="49" channel-number="49" tvg-name="SAT.1 Gold",49 SAT.1 Gold
-http://192.168.1.136:5004/auto/v49
-#EXTINF:-1 channel-id="50" channel-number="50" tvg-name="SIXX",50 SIXX
-http://192.168.1.136:5004/auto/v50
-#EXTINF:-1 channel-id="51" channel-number="51" tvg-name="TLC HD",51 TLC HD
-http://192.168.1.136:5004/auto/v51
-#EXTINF:-1 channel-id="54" channel-number="54" tvg-name="auftanken.TV HD",54 auftanken.TV HD
-http://192.168.1.136:5004/auto/v54
-#EXTINF:-1 channel-id="55" channel-number="55" tvg-name="Helvetia One TV",55 Helvetia One TV
-http://192.168.1.136:5004/auto/v55
-#EXTINF:-1 channel-id="56" channel-number="56" tvg-name="ServusTV HD",56 ServusTV HD
-http://192.168.1.136:5004/auto/v56
-#EXTINF:-1 channel-id="61" channel-number="61" tvg-name="Comedy Central",61 Comedy Central
-http://192.168.1.136:5004/auto/v61
-#EXTINF:-1 channel-id="62" channel-number="62" tvg-name="MTV HD",62 MTV HD
-http://192.168.1.136:5004/auto/v62
-#EXTINF:-1 channel-id="64" channel-number="64" tvg-name="RTL Super/TOGGO",64 RTL Super/TOGGO
-http://192.168.1.136:5004/auto/v64
-#EXTINF:-1 channel-id="65" channel-number="65" tvg-name="Disney Channel",65 Disney Channel
-http://192.168.1.136:5004/auto/v65
-#EXTINF:-1 channel-id="66" channel-number="66" tvg-name="KiKA HD",66 KiKA HD
-http://192.168.1.136:5004/auto/v66
-#EXTINF:-1 channel-id="68" channel-number="68" tvg-name="ONE HD",68 ONE HD
-http://192.168.1.136:5004/auto/v68
-#EXTINF:-1 channel-id="69" channel-number="69" tvg-name="zdf_neo HD",69 zdf_neo HD
-http://192.168.1.136:5004/auto/v69
-#EXTINF:-1 channel-id="70" channel-number="70" tvg-name="ZDFinfo HD",70 ZDFinfo HD
-http://192.168.1.136:5004/auto/v70
-#EXTINF:-1 channel-id="71" channel-number="71" tvg-name="ORF 2 Europe",71 ORF 2 Europe
-http://192.168.1.136:5004/auto/v71
-#EXTINF:-1 channel-id="72" channel-number="72" tvg-name="ORF III HD",72 ORF III HD
-http://192.168.1.136:5004/auto/v72
-#EXTINF:-1 channel-id="73" channel-number="73" tvg-name="ARD-alpha HD",73 ARD-alpha HD
-http://192.168.1.136:5004/auto/v73
-#EXTINF:-1 channel-id="74" channel-number="74" tvg-name="phoenix HD",74 phoenix HD
-http://192.168.1.136:5004/auto/v74
-#EXTINF:-1 channel-id="76" channel-number="76" tvg-name="tagesschau24 HD",76 tagesschau24 HD
-http://192.168.1.136:5004/auto/v76
-#EXTINF:-1 channel-id="77" channel-number="77" tvg-name="ntv",77 ntv
-http://192.168.1.136:5004/auto/v77
-#EXTINF:-1 channel-id="78" channel-number="78" tvg-name="WELT HD",78 WELT HD
-http://192.168.1.136:5004/auto/v78
-#EXTINF:-1 channel-id="79" channel-number="79" tvg-name="euronews HD",79 euronews HD
-http://192.168.1.136:5004/auto/v79
-#EXTINF:-1 channel-id="80" channel-number="80" tvg-name="wetter.tv HD",80 wetter.tv HD
-http://192.168.1.136:5004/auto/v80
-#EXTINF:-1 channel-id="81" channel-number="81" tvg-name="TeleBÃ¤rn HD",81 TeleBÃ¤rn HD
-http://192.168.1.136:5004/auto/v81
-#EXTINF:-1 channel-id="82" channel-number="82" tvg-name="TeleBielingue H",82 TeleBielingue H
-http://192.168.1.136:5004/auto/v82
-#EXTINF:-1 channel-id="83" channel-number="83" tvg-name="Telebasel HD",83 Telebasel HD
-http://192.168.1.136:5004/auto/v83
-#EXTINF:-1 channel-id="86" channel-number="86" tvg-name="Tele Z HD",86 Tele Z HD
-http://192.168.1.136:5004/auto/v86
-#EXTINF:-1 channel-id="87" channel-number="87" tvg-name="Tele Top HD",87 Tele Top HD
-http://192.168.1.136:5004/auto/v87
-#EXTINF:-1 channel-id="88" channel-number="88" tvg-name="SHf HD",88 SHf HD
-http://192.168.1.136:5004/auto/v88
-#EXTINF:-1 channel-id="89" channel-number="89" tvg-name="Tele D HD",89 Tele D HD
-http://192.168.1.136:5004/auto/v89
-#EXTINF:-1 channel-id="90" channel-number="90" tvg-name="TVO HD",90 TVO HD
-http://192.168.1.136:5004/auto/v90
-#EXTINF:-1 channel-id="91" channel-number="91" tvg-name="TV SÃ¼dostschwe",91 TV SÃ¼dostschwe
-http://192.168.1.136:5004/auto/v91
-#EXTINF:-1 channel-id="92" channel-number="92" tvg-name="Kanal 9 HD",92 Kanal 9 HD
-http://192.168.1.136:5004/auto/v92
-#EXTINF:-1 channel-id="93" channel-number="93" tvg-name="ALF-TV HD",93 ALF-TV HD
-http://192.168.1.136:5004/auto/v93
-#EXTINF:-1 channel-id="98" channel-number="98" tvg-name="Session StÃ¤nde",98 Session StÃ¤nde
-http://192.168.1.136:5004/auto/v98
-#EXTINF:-1 channel-id="99" channel-number="99" tvg-name="Session Nationa",99 Session Nationa
-http://192.168.1.136:5004/auto/v99
-#EXTINF:-1 channel-id="144" channel-number="144" tvg-name="Network-TV HD",144 Network-TV HD
-http://192.168.1.136:5004/auto/v144
-#EXTINF:-1 channel-id="152" channel-number="152" tvg-name="K-TV",152 K-TV
-http://192.168.1.136:5004/auto/v152
-#EXTINF:-1 channel-id="153" channel-number="153" tvg-name="Bibel TV HD",153 Bibel TV HD
-http://192.168.1.136:5004/auto/v153
-#EXTINF:-1 channel-id="161" channel-number="161" tvg-name="aw1 TV HD",161 aw1 TV HD
-http://192.168.1.136:5004/auto/v161
-#EXTINF:-1 channel-id="162" channel-number="162" tvg-name="musig24 HD",162 musig24 HD
-http://192.168.1.136:5004/auto/v162
-#EXTINF:-1 channel-id="211" channel-number="211" tvg-name="Eurosport 1",211 Eurosport 1
-http://192.168.1.136:5004/auto/v211
-#EXTINF:-1 channel-id="212" channel-number="212" tvg-name="sport1 HD",212 sport1 HD
-http://192.168.1.136:5004/auto/v212
-#EXTINF:-1 channel-id="229" channel-number="229" tvg-name="Zoom HD",229 Zoom HD
-http://192.168.1.136:5004/auto/v229
-#EXTINF:-1 channel-id="301" channel-number="301" tvg-name="BBC One HD",301 BBC One HD
-http://192.168.1.136:5004/auto/v301
-#EXTINF:-1 channel-id="302" channel-number="302" tvg-name="BBC Two HD",302 BBC Two HD
-http://192.168.1.136:5004/auto/v302
-#EXTINF:-1 channel-id="303" channel-number="303" tvg-name="BBC Three/CBBC",303 BBC Three/CBBC
-http://192.168.1.136:5004/auto/v303
-#EXTINF:-1 channel-id="304" channel-number="304" tvg-name="BBC Four/CBeebi",304 BBC Four/CBeebi
-http://192.168.1.136:5004/auto/v304
-#EXTINF:-1 channel-id="306" channel-number="306" tvg-name="itv1 HD",306 itv1 HD
-http://192.168.1.136:5004/auto/v306
-#EXTINF:-1 channel-id="307" channel-number="307" tvg-name="itv2",307 itv2
-http://192.168.1.136:5004/auto/v307
-#EXTINF:-1 channel-id="311" channel-number="311" tvg-name="Channel 4 HD",311 Channel 4 HD
-http://192.168.1.136:5004/auto/v311
-#EXTINF:-1 channel-id="312" channel-number="312" tvg-name="Film 4",312 Film 4
-http://192.168.1.136:5004/auto/v312
-#EXTINF:-1 channel-id="319" channel-number="319" tvg-name="True Crime",319 True Crime
-http://192.168.1.136:5004/auto/v319
-#EXTINF:-1 channel-id="320" channel-number="320" tvg-name="BBC News UK HD",320 BBC News UK HD
-http://192.168.1.136:5004/auto/v320
-#EXTINF:-1 channel-id="321" channel-number="321" tvg-name="BBC News Int. H",321 BBC News Int. H
-http://192.168.1.136:5004/auto/v321
-#EXTINF:-1 channel-id="323" channel-number="323" tvg-name="CNN Int. HD",323 CNN Int. HD
-http://192.168.1.136:5004/auto/v323
-#EXTINF:-1 channel-id="324" channel-number="324" tvg-name="CNBC Europe HD",324 CNBC Europe HD
-http://192.168.1.136:5004/auto/v324
-#EXTINF:-1 channel-id="325" channel-number="325" tvg-name="Bloomberg TV",325 Bloomberg TV
-http://192.168.1.136:5004/auto/v325
-#EXTINF:-1 channel-id="351" channel-number="351" tvg-name="RSI LA 1 HD",351 RSI LA 1 HD
-http://192.168.1.136:5004/auto/v351
-#EXTINF:-1 channel-id="352" channel-number="352" tvg-name="RSI LA 2 HD",352 RSI LA 2 HD
-http://192.168.1.136:5004/auto/v352
-#EXTINF:-1 channel-id="353" channel-number="353" tvg-name="Rai 1 HD",353 Rai 1 HD
-http://192.168.1.136:5004/auto/v353
-#EXTINF:-1 channel-id="354" channel-number="354" tvg-name="Rai 2 HD",354 Rai 2 HD
-http://192.168.1.136:5004/auto/v354
-#EXTINF:-1 channel-id="359" channel-number="359" tvg-name="La7 HD",359 La7 HD
-http://192.168.1.136:5004/auto/v359
-#EXTINF:-1 channel-id="380" channel-number="380" tvg-name="Rai Storia",380 Rai Storia
-http://192.168.1.136:5004/auto/v380
-#EXTINF:-1 channel-id="381" channel-number="381" tvg-name="Rai News 24",381 Rai News 24
-http://192.168.1.136:5004/auto/v381
-#EXTINF:-1 channel-id="383" channel-number="383" tvg-name="Rai Sport HD",383 Rai Sport HD
-http://192.168.1.136:5004/auto/v383
-#EXTINF:-1 channel-id="384" channel-number="384" tvg-name="SuperTennis HD",384 SuperTennis HD
-http://192.168.1.136:5004/auto/v384
-#EXTINF:-1 channel-id="395" channel-number="395" tvg-name="Rai Scuola",395 Rai Scuola
-http://192.168.1.136:5004/auto/v395
-#EXTINF:-1 channel-id="396" channel-number="396" tvg-name="Rai Gulp",396 Rai Gulp
-http://192.168.1.136:5004/auto/v396
-#EXTINF:-1 channel-id="401" channel-number="401" tvg-name="RTS 1 HD",401 RTS 1 HD
-http://192.168.1.136:5004/auto/v401
-#EXTINF:-1 channel-id="402" channel-number="402" tvg-name="RTS 2 HD",402 RTS 2 HD
-http://192.168.1.136:5004/auto/v402
-#EXTINF:-1 channel-id="403" channel-number="403" tvg-name="TF1 HD",403 TF1 HD
-http://192.168.1.136:5004/auto/v403
-#EXTINF:-1 channel-id="404" channel-number="404" tvg-name="France 2 HD",404 France 2 HD
-http://192.168.1.136:5004/auto/v404
-#EXTINF:-1 channel-id="405" channel-number="405" tvg-name="France 3 HD",405 France 3 HD
-http://192.168.1.136:5004/auto/v405
-#EXTINF:-1 channel-id="406" channel-number="406" tvg-name="France 4 HD",406 France 4 HD
-http://192.168.1.136:5004/auto/v406
-#EXTINF:-1 channel-id="407" channel-number="407" tvg-name="France 5 HD",407 France 5 HD
-http://192.168.1.136:5004/auto/v407
-#EXTINF:-1 channel-id="408" channel-number="408" tvg-name="TV5 Monde Europ",408 TV5 Monde Europ
-http://192.168.1.136:5004/auto/v408
-#EXTINF:-1 channel-id="409" channel-number="409" tvg-name="M6 HD",409 M6 HD
-http://192.168.1.136:5004/auto/v409
-#EXTINF:-1 channel-id="417" channel-number="417" tvg-name="CStar HD",417 CStar HD
-http://192.168.1.136:5004/auto/v417
-#EXTINF:-1 channel-id="419" channel-number="419" tvg-name="W9 HD",419 W9 HD
-http://192.168.1.136:5004/auto/v419
-#EXTINF:-1 channel-id="430" channel-number="430" tvg-name="France 24 HD",430 France 24 HD
-http://192.168.1.136:5004/auto/v430
-#EXTINF:-1 channel-id="440" channel-number="440" tvg-name="TVE Int. HD",440 TVE Int. HD
-http://192.168.1.136:5004/auto/v440
-#EXTINF:-1 channel-id="441" channel-number="441" tvg-name="Canal 24 horas",441 Canal 24 horas
-http://192.168.1.136:5004/auto/v441
-#EXTINF:-1 channel-id="446" channel-number="446" tvg-name="Andalucia",446 Andalucia
-http://192.168.1.136:5004/auto/v446
-#EXTINF:-1 channel-id="460" channel-number="460" tvg-name="RTPi",460 RTPi
-http://192.168.1.136:5004/auto/v460
-#EXTINF:-1 channel-id="465" channel-number="465" tvg-name="Record TV Europ",465 Record TV Europ
-http://192.168.1.136:5004/auto/v465
-#EXTINF:-1 channel-id="468" channel-number="468" tvg-name="UATV",468 UATV
-http://192.168.1.136:5004/auto/v468
-#EXTINF:-1 channel-id="480" channel-number="480" tvg-name="BVN TV",480 BVN TV
-http://192.168.1.136:5004/auto/v480
-#EXTINF:-1 channel-id="491" channel-number="491" tvg-name="TV Polonia",491 TV Polonia
-http://192.168.1.136:5004/auto/v491
-#EXTINF:-1 channel-id="502" channel-number="502" tvg-name="Slovenija 2",502 Slovenija 2
-http://192.168.1.136:5004/auto/v502
-#EXTINF:-1 channel-id="504" channel-number="504" tvg-name="HRT TV1",504 HRT TV1
-http://192.168.1.136:5004/auto/v504
-#EXTINF:-1 channel-id="511" channel-number="511" tvg-name="RTS SVET HD",511 RTS SVET HD
-http://192.168.1.136:5004/auto/v511
-#EXTINF:-1 channel-id="531" channel-number="531" tvg-name="RTK1 Sat",531 RTK1 Sat
-http://192.168.1.136:5004/auto/v531
-#EXTINF:-1 channel-id="548" channel-number="548" tvg-name="ERT world",548 ERT world
-http://192.168.1.136:5004/auto/v548
-#EXTINF:-1 channel-id="551" channel-number="551" tvg-name="TRT 1 HD",551 TRT 1 HD
-http://192.168.1.136:5004/auto/v551
-#EXTINF:-1 channel-id="595" channel-number="595" tvg-name="CGTN",595 CGTN
-http://192.168.1.136:5004/auto/v595
-#EXTINF:-1 channel-id="596" channel-number="596" tvg-name="CCTV 4 Int.",596 CCTV 4 Int.
-http://192.168.1.136:5004/auto/v596
-#EXTINF:-1 channel-id="600" channel-number="600" tvg-name="SRF 1 Radio",600 SRF 1 Radio
-http://192.168.1.136:5004/auto/v600
-#EXTINF:-1 channel-id="601" channel-number="601" tvg-name="SRF 1 BE",601 SRF 1 BE
-http://192.168.1.136:5004/auto/v601
-#EXTINF:-1 channel-id="602" channel-number="602" tvg-name="SRF 1 BS",602 SRF 1 BS
-http://192.168.1.136:5004/auto/v602
-#EXTINF:-1 channel-id="603" channel-number="603" tvg-name="SRF 1 AG",603 SRF 1 AG
-http://192.168.1.136:5004/auto/v603
-#EXTINF:-1 channel-id="604" channel-number="604" tvg-name="SRF 1 LU",604 SRF 1 LU
-http://192.168.1.136:5004/auto/v604
-#EXTINF:-1 channel-id="605" channel-number="605" tvg-name="SRF 1 ZH",605 SRF 1 ZH
-http://192.168.1.136:5004/auto/v605
-#EXTINF:-1 channel-id="606" channel-number="606" tvg-name="SRF 1 SG",606 SRF 1 SG
-http://192.168.1.136:5004/auto/v606
-#EXTINF:-1 channel-id="607" channel-number="607" tvg-name="SRF 1 GR",607 SRF 1 GR
-http://192.168.1.136:5004/auto/v607
-#EXTINF:-1 channel-id="608" channel-number="608" tvg-name="SRF 2 Kultur",608 SRF 2 Kultur
-http://192.168.1.136:5004/auto/v608
-#EXTINF:-1 channel-id="609" channel-number="609" tvg-name="SRF 3",609 SRF 3
-http://192.168.1.136:5004/auto/v609
-#EXTINF:-1 channel-id="610" channel-number="610" tvg-name="SRF 4 News",610 SRF 4 News
-http://192.168.1.136:5004/auto/v610
-#EXTINF:-1 channel-id="611" channel-number="611" tvg-name="SRF Virus",611 SRF Virus
-http://192.168.1.136:5004/auto/v611
-#EXTINF:-1 channel-id="613" channel-number="613" tvg-name="SRF Musikwelle",613 SRF Musikwelle
-http://192.168.1.136:5004/auto/v613
-#EXTINF:-1 channel-id="615" channel-number="615" tvg-name="Swiss Classic",615 Swiss Classic
-http://192.168.1.136:5004/auto/v615
-#EXTINF:-1 channel-id="616" channel-number="616" tvg-name="Swiss Pop",616 Swiss Pop
-http://192.168.1.136:5004/auto/v616
-#EXTINF:-1 channel-id="617" channel-number="617" tvg-name="Swiss Jazz",617 Swiss Jazz
-http://192.168.1.136:5004/auto/v617
-#EXTINF:-1 channel-id="624" channel-number="624" tvg-name="Energy Me Time",624 Energy Me Time
-http://192.168.1.136:5004/auto/v624
-#EXTINF:-1 channel-id="625" channel-number="625" tvg-name="Vintage Radio",625 Vintage Radio
-http://192.168.1.136:5004/auto/v625
-#EXTINF:-1 channel-id="626" channel-number="626" tvg-name="GOAT Radio",626 GOAT Radio
-http://192.168.1.136:5004/auto/v626
-#EXTINF:-1 channel-id="627" channel-number="627" tvg-name="Flashback FM",627 Flashback FM
-http://192.168.1.136:5004/auto/v627
-#EXTINF:-1 channel-id="628" channel-number="628" tvg-name="Energy Hits",628 Energy Hits
-http://192.168.1.136:5004/auto/v628
-#EXTINF:-1 channel-id="631" channel-number="631" tvg-name="Virgin Radio",631 Virgin Radio
-http://192.168.1.136:5004/auto/v631
-#EXTINF:-1 channel-id="632" channel-number="632" tvg-name="Rockit Radio",632 Rockit Radio
-http://192.168.1.136:5004/auto/v632
-#EXTINF:-1 channel-id="633" channel-number="633" tvg-name="Classic Rock",633 Classic Rock
-http://192.168.1.136:5004/auto/v633
-#EXTINF:-1 channel-id="635" channel-number="635" tvg-name="Radio Eviva",635 Radio Eviva
-http://192.168.1.136:5004/auto/v635
-#EXTINF:-1 channel-id="636" channel-number="636" tvg-name="Radio Tell",636 Radio Tell
-http://192.168.1.136:5004/auto/v636
-#EXTINF:-1 channel-id="637" channel-number="637" tvg-name="Radio Melody",637 Radio Melody
-http://192.168.1.136:5004/auto/v637
-#EXTINF:-1 channel-id="638" channel-number="638" tvg-name="Schlager Radio",638 Schlager Radio
-http://192.168.1.136:5004/auto/v638
-#EXTINF:-1 channel-id="640" channel-number="640" tvg-name="Energy Bern",640 Energy Bern
-http://192.168.1.136:5004/auto/v640
-#EXTINF:-1 channel-id="641" channel-number="641" tvg-name="Radio Bern1",641 Radio Bern1
-http://192.168.1.136:5004/auto/v641
-#EXTINF:-1 channel-id="642" channel-number="642" tvg-name="RaBe",642 RaBe
-http://192.168.1.136:5004/auto/v642
-#EXTINF:-1 channel-id="644" channel-number="644" tvg-name="BeO",644 BeO
-http://192.168.1.136:5004/auto/v644
-#EXTINF:-1 channel-id="645" channel-number="645" tvg-name="neo1",645 neo1
-http://192.168.1.136:5004/auto/v645
-#EXTINF:-1 channel-id="647" channel-number="647" tvg-name="Canal 3",647 Canal 3
-http://192.168.1.136:5004/auto/v647
-#EXTINF:-1 channel-id="649" channel-number="649" tvg-name="Radio 32",649 Radio 32
-http://192.168.1.136:5004/auto/v649
-#EXTINF:-1 channel-id="650" channel-number="650" tvg-name="Goldies Radio 3",650 Goldies Radio 3
-http://192.168.1.136:5004/auto/v650
-#EXTINF:-1 channel-id="652" channel-number="652" tvg-name="Basilisk",652 Basilisk
-http://192.168.1.136:5004/auto/v652
-#EXTINF:-1 channel-id="653" channel-number="653" tvg-name="Energy Basel",653 Energy Basel
-http://192.168.1.136:5004/auto/v653
-#EXTINF:-1 channel-id="654" channel-number="654" tvg-name="Radio X",654 Radio X
-http://192.168.1.136:5004/auto/v654
-#EXTINF:-1 channel-id="657" channel-number="657" tvg-name="Argovia",657 Argovia
-http://192.168.1.136:5004/auto/v657
-#EXTINF:-1 channel-id="659" channel-number="659" tvg-name="Kanal K",659 Kanal K
-http://192.168.1.136:5004/auto/v659
-#EXTINF:-1 channel-id="661" channel-number="661" tvg-name="3FACH",661 3FACH
-http://192.168.1.136:5004/auto/v661
-#EXTINF:-1 channel-id="662" channel-number="662" tvg-name="Radio Pilatus",662 Radio Pilatus
-http://192.168.1.136:5004/auto/v662
-#EXTINF:-1 channel-id="664" channel-number="664" tvg-name="Radio LuZ",664 Radio LuZ
-http://192.168.1.136:5004/auto/v664
-#EXTINF:-1 channel-id="665" channel-number="665" tvg-name="Radio LozÃ¤rn",665 Radio LozÃ¤rn
-http://192.168.1.136:5004/auto/v665
-#EXTINF:-1 channel-id="667" channel-number="667" tvg-name="Radio Central",667 Radio Central
-http://192.168.1.136:5004/auto/v667
-#EXTINF:-1 channel-id="668" channel-number="668" tvg-name="Sunshine Radio",668 Sunshine Radio
-http://192.168.1.136:5004/auto/v668
-#EXTINF:-1 channel-id="669" channel-number="669" tvg-name="Jam On Radio",669 Jam On Radio
-http://192.168.1.136:5004/auto/v669
-#EXTINF:-1 channel-id="670" channel-number="670" tvg-name="Radio 24",670 Radio 24
-http://192.168.1.136:5004/auto/v670
-#EXTINF:-1 channel-id="671" channel-number="671" tvg-name="Energy ZÃ¼rich",671 Energy ZÃ¼rich
-http://192.168.1.136:5004/auto/v671
-#EXTINF:-1 channel-id="672" channel-number="672" tvg-name="Radio 1",672 Radio 1
-http://192.168.1.136:5004/auto/v672
-#EXTINF:-1 channel-id="675" channel-number="675" tvg-name="LoRa",675 LoRa
-http://192.168.1.136:5004/auto/v675
-#EXTINF:-1 channel-id="677" channel-number="677" tvg-name="ZÃ¼risee",677 ZÃ¼risee
-http://192.168.1.136:5004/auto/v677
-#EXTINF:-1 channel-id="678" channel-number="678" tvg-name="Radio Top",678 Radio Top
-http://192.168.1.136:5004/auto/v678
-#EXTINF:-1 channel-id="680" channel-number="680" tvg-name="Stadtfilter",680 Stadtfilter
-http://192.168.1.136:5004/auto/v680
-#EXTINF:-1 channel-id="681" channel-number="681" tvg-name="Radio 4TNG",681 Radio 4TNG
-http://192.168.1.136:5004/auto/v681
-#EXTINF:-1 channel-id="682" channel-number="682" tvg-name="Munot",682 Munot
-http://192.168.1.136:5004/auto/v682
-#EXTINF:-1 channel-id="683" channel-number="683" tvg-name="Rasa",683 Rasa
-http://192.168.1.136:5004/auto/v683
-#EXTINF:-1 channel-id="685" channel-number="685" tvg-name="FM1",685 FM1
-http://192.168.1.136:5004/auto/v685
-#EXTINF:-1 channel-id="687" channel-number="687" tvg-name="toxic.fm",687 toxic.fm
-http://192.168.1.136:5004/auto/v687
-#EXTINF:-1 channel-id="690" channel-number="690" tvg-name="Radio Grischa",690 Radio Grischa
-http://192.168.1.136:5004/auto/v690
-#EXTINF:-1 channel-id="692" channel-number="692" tvg-name="rro",692 rro
-http://192.168.1.136:5004/auto/v692
-#EXTINF:-1 channel-id="693" channel-number="693" tvg-name="rro swiss melod",693 rro swiss melod
-http://192.168.1.136:5004/auto/v693
-#EXTINF:-1 channel-id="695" channel-number="695" tvg-name="rro HitBox",695 rro HitBox
-http://192.168.1.136:5004/auto/v695
-#EXTINF:-1 channel-id="697" channel-number="697" tvg-name="diis Radio",697 diis Radio
-http://192.168.1.136:5004/auto/v697
-#EXTINF:-1 channel-id="698" channel-number="698" tvg-name="RadioFr.",698 RadioFr.
-http://192.168.1.136:5004/auto/v698
-#EXTINF:-1 channel-id="700" channel-number="700" tvg-name="SWR1 BW",700 SWR1 BW
-http://192.168.1.136:5004/auto/v700
-#EXTINF:-1 channel-id="701" channel-number="701" tvg-name="SWR Kultur",701 SWR Kultur
-http://192.168.1.136:5004/auto/v701
-#EXTINF:-1 channel-id="702" channel-number="702" tvg-name="SWR3",702 SWR3
-http://192.168.1.136:5004/auto/v702
-#EXTINF:-1 channel-id="703" channel-number="703" tvg-name="SWR4 BW",703 SWR4 BW
-http://192.168.1.136:5004/auto/v703
-#EXTINF:-1 channel-id="704" channel-number="704" tvg-name="DASDING",704 DASDING
-http://192.168.1.136:5004/auto/v704
-#EXTINF:-1 channel-id="705" channel-number="705" tvg-name="SWR Aktuell",705 SWR Aktuell
-http://192.168.1.136:5004/auto/v705
-#EXTINF:-1 channel-id="706" channel-number="706" tvg-name="Bayern 1",706 Bayern 1
-http://192.168.1.136:5004/auto/v706
-#EXTINF:-1 channel-id="707" channel-number="707" tvg-name="Bayern 2",707 Bayern 2
-http://192.168.1.136:5004/auto/v707
-#EXTINF:-1 channel-id="708" channel-number="708" tvg-name="Bayern 3",708 Bayern 3
-http://192.168.1.136:5004/auto/v708
-#EXTINF:-1 channel-id="709" channel-number="709" tvg-name="BR-KLASSIK",709 BR-KLASSIK
-http://192.168.1.136:5004/auto/v709
-#EXTINF:-1 channel-id="710" channel-number="710" tvg-name="BR24",710 BR24
-http://192.168.1.136:5004/auto/v710
-#EXTINF:-1 channel-id="711" channel-number="711" tvg-name="BR Heimat",711 BR Heimat
-http://192.168.1.136:5004/auto/v711
-#EXTINF:-1 channel-id="712" channel-number="712" tvg-name="BR Schlager",712 BR Schlager
-http://192.168.1.136:5004/auto/v712
-#EXTINF:-1 channel-id="713" channel-number="713" tvg-name="PULS",713 PULS
-http://192.168.1.136:5004/auto/v713
-#EXTINF:-1 channel-id="714" channel-number="714" tvg-name="SR 1 Europawell",714 SR 1 Europawell
-http://192.168.1.136:5004/auto/v714
-#EXTINF:-1 channel-id="717" channel-number="717" tvg-name="1LIVE",717 1LIVE
-http://192.168.1.136:5004/auto/v717
-#EXTINF:-1 channel-id="718" channel-number="718" tvg-name="1LIVE DIGGI",718 1LIVE DIGGI
-http://192.168.1.136:5004/auto/v718
-#EXTINF:-1 channel-id="719" channel-number="719" tvg-name="WDR 2 Rheinland",719 WDR 2 Rheinland
-http://192.168.1.136:5004/auto/v719
-#EXTINF:-1 channel-id="720" channel-number="720" tvg-name="WDR 3",720 WDR 3
-http://192.168.1.136:5004/auto/v720
-#EXTINF:-1 channel-id="721" channel-number="721" tvg-name="WDR 4",721 WDR 4
-http://192.168.1.136:5004/auto/v721
-#EXTINF:-1 channel-id="722" channel-number="722" tvg-name="WDR 5",722 WDR 5
-http://192.168.1.136:5004/auto/v722
-#EXTINF:-1 channel-id="724" channel-number="724" tvg-name="Die Maus",724 Die Maus
-http://192.168.1.136:5004/auto/v724
-#EXTINF:-1 channel-id="725" channel-number="725" tvg-name="hr1",725 hr1
-http://192.168.1.136:5004/auto/v725
-#EXTINF:-1 channel-id="726" channel-number="726" tvg-name="hr2",726 hr2
-http://192.168.1.136:5004/auto/v726
-#EXTINF:-1 channel-id="727" channel-number="727" tvg-name="hr3",727 hr3
-http://192.168.1.136:5004/auto/v727
-#EXTINF:-1 channel-id="728" channel-number="728" tvg-name="hr4",728 hr4
-http://192.168.1.136:5004/auto/v728
-#EXTINF:-1 channel-id="729" channel-number="729" tvg-name="YOU FM",729 YOU FM
-http://192.168.1.136:5004/auto/v729
-#EXTINF:-1 channel-id="730" channel-number="730" tvg-name="MDR SACHSEN DD",730 MDR SACHSEN DD
-http://192.168.1.136:5004/auto/v730
-#EXTINF:-1 channel-id="731" channel-number="731" tvg-name="MDR KULTUR",731 MDR KULTUR
-http://192.168.1.136:5004/auto/v731
-#EXTINF:-1 channel-id="732" channel-number="732" tvg-name="MDR KLASSIK",732 MDR KLASSIK
-http://192.168.1.136:5004/auto/v732
-#EXTINF:-1 channel-id="733" channel-number="733" tvg-name="MDR JUMP",733 MDR JUMP
-http://192.168.1.136:5004/auto/v733
-#EXTINF:-1 channel-id="734" channel-number="734" tvg-name="MDR SPUTNIK",734 MDR SPUTNIK
-http://192.168.1.136:5004/auto/v734
-#EXTINF:-1 channel-id="736" channel-number="736" tvg-name="radioeins",736 radioeins
-http://192.168.1.136:5004/auto/v736
-#EXTINF:-1 channel-id="737" channel-number="737" tvg-name="Fritz",737 Fritz
-http://192.168.1.136:5004/auto/v737
-#EXTINF:-1 channel-id="738" channel-number="738" tvg-name="rbb 88.8",738 rbb 88.8
-http://192.168.1.136:5004/auto/v738
-#EXTINF:-1 channel-id="739" channel-number="739" tvg-name="radio3",739 radio3
-http://192.168.1.136:5004/auto/v739
-#EXTINF:-1 channel-id="741" channel-number="741" tvg-name="NDR 1 Welle Nor",741 NDR 1 Welle Nor
-http://192.168.1.136:5004/auto/v741
-#EXTINF:-1 channel-id="742" channel-number="742" tvg-name="NDR 2 NDS",742 NDR 2 NDS
-http://192.168.1.136:5004/auto/v742
-#EXTINF:-1 channel-id="743" channel-number="743" tvg-name="NDR Kultur",743 NDR Kultur
-http://192.168.1.136:5004/auto/v743
-#EXTINF:-1 channel-id="744" channel-number="744" tvg-name="NDR Blue",744 NDR Blue
-http://192.168.1.136:5004/auto/v744
-#EXTINF:-1 channel-id="745" channel-number="745" tvg-name="N-JOY",745 N-JOY
-http://192.168.1.136:5004/auto/v745
-#EXTINF:-1 channel-id="746" channel-number="746" tvg-name="NDR Info NDS",746 NDR Info NDS
-http://192.168.1.136:5004/auto/v746
-#EXTINF:-1 channel-id="747" channel-number="747" tvg-name="Bremen Eins",747 Bremen Eins
-http://192.168.1.136:5004/auto/v747
-#EXTINF:-1 channel-id="749" channel-number="749" tvg-name="Bremen Vier",749 Bremen Vier
-http://192.168.1.136:5004/auto/v749
-#EXTINF:-1 channel-id="750" channel-number="750" tvg-name="Dlf",750 Dlf
-http://192.168.1.136:5004/auto/v750
-#EXTINF:-1 channel-id="751" channel-number="751" tvg-name="Dlf Nova",751 Dlf Nova
-http://192.168.1.136:5004/auto/v751
-#EXTINF:-1 channel-id="752" channel-number="752" tvg-name="Dlf Kultur",752 Dlf Kultur
-http://192.168.1.136:5004/auto/v752
-#EXTINF:-1 channel-id="755" channel-number="755" tvg-name="OE1",755 OE1
-http://192.168.1.136:5004/auto/v755
-#EXTINF:-1 channel-id="756" channel-number="756" tvg-name="OE2 Vorarlberg",756 OE2 Vorarlberg
-http://192.168.1.136:5004/auto/v756
-#EXTINF:-1 channel-id="757" channel-number="757" tvg-name="OE3",757 OE3
-http://192.168.1.136:5004/auto/v757
-#EXTINF:-1 channel-id="758" channel-number="758" tvg-name="FM4",758 FM4
-http://192.168.1.136:5004/auto/v758
-#EXTINF:-1 channel-id="760" channel-number="760" tvg-name="rundfunk.fm",760 rundfunk.fm
-http://192.168.1.136:5004/auto/v760
-#EXTINF:-1 channel-id="762" channel-number="762" tvg-name="Klassik Radio",762 Klassik Radio
-http://192.168.1.136:5004/auto/v762

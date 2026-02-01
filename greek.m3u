@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ANT1" group-title="Favoriten",ANT1
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="SKAI" group-title="Favoriten",SKAI
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="Makedonia" group-title="Favoriten",Makedonia
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
+
+
 ##### FAVORITEN #####
 #EXTINF:-1 tvg-id="SRF1.ch" group-title="Favoriten",SRF 1 HD
 #http://192.168.1.136:5004/tuner2/ch578000000-2021
@@ -91,4 +101,5 @@ http://192.168.1.136:5004/auto/v30
 
 #EXTINF:-1 tvg-id="SWRBW.de" group-title="DE / AT",SWR BW HD
 http://192.168.1.136:5004/auto/v31
+
 

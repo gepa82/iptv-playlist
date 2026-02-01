@@ -2,13 +2,13 @@
 
 ##### FAVORITEN #####
 #EXTINF:-1 tvg-id="SRF1.ch" group-title="Favoriten",SRF 1 HD
-http://192.168.1.136:5004/auto/v1
+#http://192.168.1.136:5004/tuner2/ch578000000-2021
 
 #EXTINF:-1 tvg-id="SRFzwei.ch" group-title="Favoriten",SRF zwei HD
-http://192.168.1.136:5004/auto/v2
+http://192.168.1.136:5004/tuner2/ch578000000-2023
 
 #EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Favoriten",SRF info HD
-http://192.168.1.136:5004/auto/v3
+http://192.168.1.136:5004/tuner2/ch306000000-2030
 
 
 ##### SCHWEIZ #####
@@ -22,22 +22,22 @@ http://192.168.1.136:5004/auto/v6
 http://192.168.1.136:5004/auto/v7
 
 #EXTINF:-1 tvg-id="WWZinfo.ch" group-title="Schweiz",WWZ Info HD
-http://192.168.1.136:5004/auto/v8
+http://192.168.1.136:5004/tuner2/ch562000000-2133
 
 #EXTINF:-1 tvg-id="3plus.ch" group-title="Schweiz",3+ HD
-http://192.168.1.136:5004/auto/v9
+http://192.168.1.136:5004/tuner2/ch306000000-2176
 
 #EXTINF:-1 tvg-id="4plus.ch" group-title="Schweiz",4+ HD
-http://192.168.1.136:5004/auto/v10
+http://192.168.1.136:5004/tuner2/ch306000000-2178
 
 #EXTINF:-1 tvg-id="5plus.ch" group-title="Schweiz",5+ HD
-http://192.168.1.136:5004/auto/v11
+http://192.168.1.136:5004/tuner2/ch306000000-2179
 
 #EXTINF:-1 tvg-id="6plus.ch" group-title="Schweiz",6+ HD
-http://192.168.1.136:5004/auto/v12
+http://192.168.1.136:5004/tuner2/ch306000000-2180
 
 #EXTINF:-1 tvg-id="7plus.ch" group-title="Schweiz",7+ / Nickelodeon
-http://192.168.1.136:5004/auto/v13
+http://192.168.1.136:5004/tuner2/ch306000000-2467
 
 #EXTINF:-1 tvg-id="TV24.ch" group-title="Schweiz",TV24 HD
 http://192.168.1.136:5004/auto/v14
@@ -91,3 +91,4 @@ http://192.168.1.136:5004/auto/v30
 
 #EXTINF:-1 tvg-id="SWRBW.de" group-title="DE / AT",SWR BW HD
 http://192.168.1.136:5004/auto/v31
+

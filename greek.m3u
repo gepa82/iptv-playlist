@@ -9,97 +9,11 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="Makedonia" group-title="Favoriten",Makedonia
 https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/6415884360001/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="alpha" group-title="Favoriten",alpha
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 
-##### FAVORITEN #####
-#EXTINF:-1 tvg-id="SRF1.ch" group-title="Favoriten",SRF 1 HD
-#http://192.168.1.136:5004/tuner2/ch578000000-2021
+#EXTINF:-1 tvg-id="ERT News" group-title="Favoriten",ERT News
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 
-#EXTINF:-1 tvg-id="SRFzwei.ch" group-title="Favoriten",SRF zwei HD
-http://192.168.1.136:5004/tuner2/ch578000000-2023
-
-#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Favoriten",SRF info HD
-http://192.168.1.136:5004/tuner2/ch306000000-2030
-
-
-##### SCHWEIZ #####
-#EXTINF:-1 tvg-id="Tele1.ch" group-title="Schweiz",Tele 1 HD
-http://192.168.1.136:5004/auto/v5
-
-#EXTINF:-1 tvg-id="TeleZueri.ch" group-title="Schweiz",TeleZüri HD
-http://192.168.1.136:5004/auto/v6
-
-#EXTINF:-1 tvg-id="TeleM1.ch" group-title="Schweiz",Tele M1 HD
-http://192.168.1.136:5004/auto/v7
-
-#EXTINF:-1 tvg-id="WWZinfo.ch" group-title="Schweiz",WWZ Info HD
-http://192.168.1.136:5004/tuner2/ch562000000-2133
-
-#EXTINF:-1 tvg-id="3plus.ch" group-title="Schweiz",3+ HD
-http://192.168.1.136:5004/tuner2/ch306000000-2176
-
-#EXTINF:-1 tvg-id="4plus.ch" group-title="Schweiz",4+ HD
-http://192.168.1.136:5004/tuner2/ch306000000-2178
-
-#EXTINF:-1 tvg-id="5plus.ch" group-title="Schweiz",5+ HD
-http://192.168.1.136:5004/tuner2/ch306000000-2179
-
-#EXTINF:-1 tvg-id="6plus.ch" group-title="Schweiz",6+ HD
-http://192.168.1.136:5004/tuner2/ch306000000-2180
-
-#EXTINF:-1 tvg-id="7plus.ch" group-title="Schweiz",7+ / Nickelodeon
-http://192.168.1.136:5004/tuner2/ch306000000-2467
-
-#EXTINF:-1 tvg-id="TV24.ch" group-title="Schweiz",TV24 HD
-http://192.168.1.136:5004/auto/v14
-
-#EXTINF:-1 tvg-id="Puls8.ch" group-title="Schweiz",Puls 8 HD
-http://192.168.1.136:5004/auto/v15
-
-#EXTINF:-1 tvg-id="StarTV.ch" group-title="Schweiz",Star TV HD
-http://192.168.1.136:5004/auto/v16
-
-#EXTINF:-1 tvg-id="S1.ch" group-title="Schweiz",S1 HD
-http://192.168.1.136:5004/auto/v17
-
-#EXTINF:-1 tvg-id="Swiss1.ch" group-title="Schweiz",SWISS1 HD
-http://192.168.1.136:5004/auto/v18
-
-#EXTINF:-1 tvg-id="TV25.ch" group-title="Schweiz",TV25 HD
-http://192.168.1.136:5004/auto/v19
-
-
-##### DE / AT #####
-#EXTINF:-1 tvg-id="DasErste.de" group-title="DE / AT",Das Erste HD
-http://192.168.1.136:5004/auto/v21
-
-#EXTINF:-1 tvg-id="ZDF.de" group-title="DE / AT",ZDF HD
-http://192.168.1.136:5004/auto/v22
-
-#EXTINF:-1 tvg-id="ORF1.at" group-title="DE / AT",ORF 1 HD
-http://192.168.1.136:5004/auto/v23
-
-#EXTINF:-1 tvg-id="ORF2.at" group-title="DE / AT",ORF 2 HD
-http://192.168.1.136:5004/auto/v24
-
-#EXTINF:-1 tvg-id="RTL.de" group-title="DE / AT",RTL
-http://192.168.1.136:5004/auto/v25
-
-#EXTINF:-1 tvg-id="SAT1.de" group-title="DE / AT",SAT.1
-http://192.168.1.136:5004/auto/v26
-
-#EXTINF:-1 tvg-id="ProSieben.de" group-title="DE / AT",ProSieben
-http://192.168.1.136:5004/auto/v27
-
-#EXTINF:-1 tvg-id="VOX.de" group-title="DE / AT",VOX
-http://192.168.1.136:5004/auto/v28
-
-#EXTINF:-1 tvg-id="RTL2.de" group-title="DE / AT",RTLZWEI
-http://192.168.1.136:5004/auto/v29
-
-#EXTINF:-1 tvg-id="KabelEins.de" group-title="DE / AT",kabel eins
-http://192.168.1.136:5004/auto/v30
-
-#EXTINF:-1 tvg-id="SWRBW.de" group-title="DE / AT",SWR BW HD
-http://192.168.1.136:5004/auto/v31
-
-
+#EXTINF:-1 tvg-id="Star" group-title="Favoriten",Star
+https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
